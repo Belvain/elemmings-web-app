@@ -7,7 +7,7 @@ import spark.Request;
 
 /**
  *
- * @author heikkikurhinen
+ * @author belvain
  */
 public interface Command {
     

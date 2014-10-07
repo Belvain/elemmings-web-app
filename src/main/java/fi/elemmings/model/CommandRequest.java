@@ -6,7 +6,7 @@ import org.codehaus.jackson.annotate.JsonIgnoreProperties;
 
 /**
  *
- * @author heikkikurhinen
+ * @author belvain
  */
 
 @JsonIgnoreProperties(ignoreUnknown = true)

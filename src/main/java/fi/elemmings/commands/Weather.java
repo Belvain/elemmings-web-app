@@ -19,7 +19,7 @@ import spark.Request;
  */
 public class Weather implements Command {
 
-    private static final String WEATHER_URL = "http://192.168.11.3:3000/api/weather/";
+    private static final String WEATHER_URL = "http://192.168.11.34:3000/api/weather/";
     
     @Override
     public String getName() {
